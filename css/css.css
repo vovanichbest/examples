@@ -1,8 +1,9 @@
 footer{text-align: center;}
 .cosial a{border-right: solid 1px black;
           text-align: center;}
-button{border-radius: 50%;
-       padding: 2%;}
+button{border-radius: 50px;
+       padding: 5%;
+      }
 .col-xs-5{margin-left: 9%;}
 .container-fluid{margin-top: 6%;}
 body{font-family: 'Alegreya', serif;}
