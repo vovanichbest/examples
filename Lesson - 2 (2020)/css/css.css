@@ -1,0 +1,199 @@
+#main{position: relative;
+    background-image:url('../images/background.png');
+    background-repeat: no-repeat;
+    background-size: 100vw 100%;
+}
+.navbar{padding: 0px;}
+.foot p{color: #a3afb2;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 12pt;
+    margin: 0px;
+    padding: 0px;}
+#good{font-family: 'Bebas Neue', cursive;
+      font-size: 60pt;
+      color: #cccece;
+      text-align: center;
+      padding-top: 10%;}
+#ubuntu{font-family: 'Ubuntu', sans-serif;
+        font-size: 14pt;
+        color: #cccece;
+        text-align: center;}
+#learnmore{font-family: 'Ubuntu Condensed', sans-serif;
+          margin-top: 3%;
+          margin-bottom: 15.5%;
+          font-size: 25pt;
+          color: #ffebca;
+          text-align: center;
+          background-color: #f98561;
+          border-radius: 8px;
+          padding: 5px 50px;}
+#navbar{font-family: 'Bree Serif', serif;
+        font-size: 20pt;
+        color: #606060;
+        width: 30%;
+        text-align: center;
+        padding-top: 0.6%;
+        padding-bottom: 0.75%;}
+#slider{position: absolute;
+      right: 14.5%;
+      bottom: 7%;}
+#middle{text-align: center;
+        padding-top: 5%;
+        padding-bottom: 5%;}
+#ourservices{background-color: #2190c1;
+            color: white;
+            font-size: 22pt;
+            font-family: 'Bebas Neue', cursive;
+            text-align: center;
+            margin-top: -17pt;
+            border-radius: 3pt;}
+#morework{background-color: #2190c1;
+          color: white;
+          border-radius: 8px;
+          padding: 5px 20px;
+          margin-top: 70px;}
+#portfolio{font-family: 'Bree Serif', serif;
+          color: #f98561;
+          text-align: center;
+          font-size: 30pt;
+        padding-bottom: 85px;
+        padding-top: 60px;}
+#camera{background-color: #bebebe;
+        border: solid 15px white;
+        padding: 110px 140px;}
+#detail{background-color: #bebebe;
+        border: solid 15px white;
+        padding: 106px 90px;}
+#second{background-color: #2e3e4f;
+        padding-bottom: 50px;}
+#betwen{margin: 0px 100px;}
+#third{color: #515862;
+      font-size: 12pt;
+      font-family: 'Ubuntu', sans-serif;}
+#details, #shop{background-color: #2190c1;
+          color: white;
+          border-radius: 8px;
+          padding: 5px 15px;
+          margin-top: 10px;
+          margin-left: 160px;}
+#footer{background-color: #2e3e4f;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        }
+#mylogo{font-size: 20pt;
+      padding-left: 0px;
+      color: #606060;
+      font-family: 'Bree Serif', serif;
+      text-align: center;
+      text-decoration: none;}
+
+.nav-item>a{color: #515862;
+          text-align: justify;
+         font-family: 'Ubuntu Condensed', sans-serif;
+          font-size: 12pt;}
+@font-face {
+            font-family: 'Myriad Pro Regular';
+            src: url('../fonts/MyriadPro-Regular.eot');
+            src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/MyriadPro-Regular.woff') format('woff'),
+            url('../fonts/MyriadPro-Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+            }
+div h1{color: #515862;
+      font-size: 17pt;
+      font-family: 'Bree Serif', serif;
+      padding-top: 10%;}
+div p{color: #515862;
+      font-size: 11pt;
+      font-family: 'Myriad Pro Regular';}
+p a{color: #3e9dd1;}
+div h4{color: #2b99cc;
+      font-size: 17pt;
+      font-family: 'Bree Serif', serif;
+      padding-top: 40px;}
+div h2{color: #f98561;
+      font-size: 17pt;
+      font-family: 'Bree Serif', serif;
+      padding-top: 10%;}
+div h3{color: #2190c1;
+      font-size: 40pt;
+      font-family: 'Bebas Neue', cursive;
+      text-align: center;
+      padding-top: 3%;}
+h5{color: #2b99cc;
+      font-size: 27pt;
+      font-family: 'Bebas Neue', cursive;
+      padding-top: 50px;}
+h6{color: #f98561;
+      font-size: 17pt;
+      font-family: 'Bree Serif', serif;
+      padding-top: 40px;}
+#abb p, #b p, #c p, #d p{color: #bcbcbc;
+            font-family: 'Ubuntu Condensed', sans-serif;
+            font-size: 11pt;
+            padding-bottom: 95px;}
+.footer{color: #f98561;
+        font-size: 30pt;
+        font-family: 'Bebas Neue', cursive;}
+.link{color: #228bba;
+      font-family: 'Ubuntu Condensed', sans-serif;
+      font-size: 12pt;}
+.col-md-8 {color: #a3afb2;
+          font-family: 'Ubuntu Condensed', sans-serif;
+          font-size: 13pt;}
+hr{border: solid 1px #556270;}
+
+  /*      <nav class="navbar navbar-default">
+          <div class="container-fluid">
+                <div class="navbar-header" id="navbar">
+                  <img src="icons/1.png" alt="orange round">
+                  <img src="icons/2.png" alt="quadrate blue">
+                  Your Logo
+                </div>
+                <div>
+                  <ul class="nav navbar-nav" id="list">
+                    <li class="nav active">Home</li>
+                    <li>Portfolio</li>
+                    <li>About</li>
+                    <li>Contact</li>
+                  </ul>
+                </div>
+          </div>
+        </nav>*/
+
+/*            <header>
+      <div class="container-fluid">
+        <div class="row align-items-center" style="height: 27.9mm">
+          <div class="col-md-4" style="background-color: gray; padding: 7px 20px">
+            <img src="" alt="">
+            <img src="" alt="">
+            Your Logo
+          </div>
+          <div class="col-md-5" style="background-color: orange">
+              <div class="row align-items-center">
+                <div class="col-md-2">
+                  Home
+                </div>
+                <div class="col-md-3">
+                  Portfolio
+                </div>
+                <div class="col-md-2">
+                  About
+                </div>
+                <div class="col-md-2">
+                  Contact
+                </div>
+                <div class="col-md-3">
+                  <button type="button" name="button" class="btn btn-danger">Blog</button>
+                </div>
+              </div>
+          </div>
+          <div class="col-md-2" style="background-color: purple; padding: 6px 20px">
+            Search
+            <img src="" alt="search icon">
+          </div>
+        </div>
+      </div>
+    </header>
+*/
