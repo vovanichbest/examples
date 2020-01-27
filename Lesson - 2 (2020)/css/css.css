@@ -86,7 +86,9 @@
       font-family: 'Bree Serif', serif;
       text-align: center;
       text-decoration: none;}
-
+.blog{background-color: #f98561;
+      border-radius: 5px;
+      padding: 0px 20px;}
 .nav-item>a{color: #515862;
           text-align: justify;
          font-family: 'Ubuntu Condensed', sans-serif;
@@ -143,7 +145,7 @@ h6{color: #f98561;
           font-family: 'Ubuntu Condensed', sans-serif;
           font-size: 13pt;}
 hr{border: solid 1px #556270;}
-
+.navbar-nav li{margin-left: 100px;}
   /*      <nav class="navbar navbar-default">
           <div class="container-fluid">
                 <div class="navbar-header" id="navbar">
