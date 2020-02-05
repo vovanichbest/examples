@@ -3,6 +3,36 @@
     background-repeat: no-repeat;
     background-size: 100vw 100%;
 }
+.vlist{width: 100%;
+         height: 50px;
+         text-align: center;
+         justify-content: center;
+         align-items: center;
+         display: block;
+         color: #515862;
+         font-family: 'Ubuntu Condensed', sans-serif;
+         font-size: 16pt;
+         text-decoration: none;
+         margin-bottom: 30px;
+}
+.ht{font-family: 'Bebas Neue', cursive;
+          font-size: 27pt;
+          color: #2190c1;
+          padding-top: 30px;
+          padding-bottom: 30px;
+          margin: 0px;
+          text-align: center;
+}
+.th, .th>img{text-align: center;
+    margin-left: 15px;
+    padding: 30px 30px}
+.rt{text-align: center;
+  font-family: 'Bree Serif', serif;
+    font-size: 25pt;
+    color: #515862;
+    margin: 15px 0px;
+    padding-bottom: 114px;
+  }
 .col-md-12.about{border: solid 2px black;
     position: relative;
     background-image:url('../images/background2.png');
@@ -33,7 +63,7 @@
           padding-bottom: 37px;
           margin: 0px;
         }
-.col-md-12.text2 > p{font-family: 'Ubuntu', sans-serif;
+.col-md-12.text2 > p, .col-md-9>p{font-family: 'Ubuntu', sans-serif;
           font-size: 13pt;
           color: #515862;
         /*  padding-top: 65px;
@@ -83,7 +113,7 @@
           /*  padding-bottom: 114px;*/
             margin: 0px;
   }
-  .text-center.third{font-family: 'Bebas Neue', cursive;
+  .text-center.third {font-family: 'Bebas Neue', cursive;
             font-size: 13pt;
             color: #94979b;
             /*padding-top: 40px;*/
@@ -109,6 +139,33 @@
           margin-left: 30px;
           background-color: white;
 }
+p > span{font-family: 'Ubuntu', sans-serif;
+          font-size: 12pt;
+          color: #2896c1;
+          text-decoration: underline;
+          /*padding-top: 40px;*/
+        /*  padding-bottom: 114px;*/
+          /*margin: 0px;*/
+        }
+.fgh{margin: 20px 0px;
+}
+.col-md-12.it > p{font-family: 'Bebas Neue', cursive;
+      font-size: 35.4pt;
+      color: #515862;
+      text-align: center;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+.col-md-12.social5{
+  text-align: center;
+}
+.tre{
+  padding-bottom: 40px;
+}
+.col-md-3.ig{
+  padding: 20px 15px;
+}
+
 #thought{padding-bottom: 108px;}
 .navbar{padding: 0px;}
 .foot p{color: #a3afb2;
